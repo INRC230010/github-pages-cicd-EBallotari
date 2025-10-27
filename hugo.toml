@@ -1,0 +1,4 @@
+baseURL = "https://INRC230010.github.io/github-pages-cicd-EBallotari/"
+languageCode = "pt-br"
+title = "Teste Page Hugo" 
+theme = "ananke" 

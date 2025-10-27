@@ -1,0 +1,11 @@
+# Pasta do site compilado (GERADA PELA ACTION)
+/public/
+
+# Cache de assets do Hugo
+/resources/
+
+# Arquivos de IDE e Sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
